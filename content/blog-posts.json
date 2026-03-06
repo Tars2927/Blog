@@ -1,1 +1,15 @@
+[
+  {
+    "slug": "my-first-blog",
+    "title": "My First Blog",
+    "summary": "Quick intro to what I am building and learning.",
+    "publishedAt": "2026-03-06",
+    "readTime": "3 min read",
+    "tags": ["Intro", "Portfolio"],
+    "content": [
+      "This is my first post.",
+      "I will publish updates here regularly."
+    ]
+  }
+]
 
