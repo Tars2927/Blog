@@ -6,10 +6,10 @@ publishedAt: 2026-03-17
 readTime: 12 min read
 tags: [AI, ML, LLM, Inference, Systems]
 ---
+
 # The Forward Pass Is a Lie
 
 > *Modern inference engines have reconstructed what "running a model" means so thoroughly that the textbook forward pass barely resembles what executes on your GPU.*
----
 
 Every ML course teaches the same story. You have a model. You feed in tokens. Each layer transforms the hidden state. You get logits out. *That's the forward pass.* Clean, sequential, mathematically elegant.
 
