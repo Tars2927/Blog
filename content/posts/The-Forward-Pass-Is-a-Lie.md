@@ -1,4 +1,3 @@
-# The Forward Pass Is a Lie
 ---
 slug: the-forward-pass-is-a-lie
 title: The Forward Pass Is a Lie
@@ -7,6 +6,7 @@ publishedAt: 2026-03-17
 readTime: 12 min read
 tags: [AI, ML, LLM, Inference, Systems]
 ---
+# The Forward Pass Is a Lie
 
 > *Modern inference engines have reconstructed what "running a model" means so thoroughly that the textbook forward pass barely resembles what executes on your GPU.*
 ---
