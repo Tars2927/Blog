@@ -2,8 +2,12 @@
 
 > *Modern inference engines have reconstructed what "running a model" means so thoroughly that the textbook forward pass barely resembles what executes on your GPU.*
 
-**Tags:** AI/ML Internals · Systems · LLM Inference  
-**Read time:** ~12 min
+slug: the-forward-pass-is-a-lie
+title: The Forward Pass Is a Lie
+summary: Modern inference engines have reconstructed what "running a model" means so thoroughly that the textbook forward pass barely resembles what executes on your GPU.
+publishedAt: 2026-03-17
+readTime: 12 min read
+tags: [AI, ML, LLM, Inference, Systems]
 
 ---
 
