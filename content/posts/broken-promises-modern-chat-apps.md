@@ -2,7 +2,7 @@
 slug: broken-promises-modern-chat-apps
 title: The Broken Promises of Modern Chat Apps: What Nobody Wants to Talk About
 summary: We have more ways to talk to each other than ever before. So why does communication feel this exhausting?
-publishedAt: 2026-03-01
+publishedAt: 2026-03-20
 readTime: 10 min read
 tags: [Tech, Messaging, Design, Mental Health, Privacy]
 ---
